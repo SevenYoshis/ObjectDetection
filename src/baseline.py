@@ -1,7 +1,7 @@
 import cv2 as cv 
 import numpy as np
 
-# Create the Video capture
+# Create the video capture
 capture = cv.VideoCapture(0)
 classes = ["background", "person", "bicycle", "car", "motorcycle",
   "airplane", "bus", "train", "truck", "boat", "traffic light", "fire hydrant",
