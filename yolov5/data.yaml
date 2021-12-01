@@ -1,0 +1,5 @@
+train: ./train/images
+val: ./test/images
+
+nc: 6
+names: ['EB-1', 'Fitts- Woolard', 'Hunt Library', 'Wolf Ridge', 'eb2', 'eb3']
